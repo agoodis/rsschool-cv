@@ -22,8 +22,11 @@ function alphabetPosition(text) {
 return text;
 }
 ```
-### Experience:
+### Courses:
+JavaScript Manual on learnjavascript.ru
 
 ### Education:
+Saint-Petersburg University of Humanities and Social Sciences
 
 ### Languages:
+English: A1
